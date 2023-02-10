@@ -11,7 +11,7 @@ author: Dircom-SLabo (fork Lundegaard a.s.)
 email: nordcom@lenord.fr
 # baseurl: "/design-system-template" # the subpath of your site, e.g. /blog
 # url: "https://lundegaard.github.io/" # the base hostname & protocol for your site
-url: "https://lundegaard.github.io/"
+url: "https://d59-system.vercel.app/"
 
 # Build settings
 markdown: kramdown
