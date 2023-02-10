@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le guide de style du Département du Nord
+title: Guide de style Département du Nord
 description: Tout ce qu'il faut pour faire des sites Départementaux
 ---
 
