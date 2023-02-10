@@ -6,11 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Design System Template
-author: Lundegaard a.s.
-email: design-systems@lundegaard.eu
-baseurl: "/design-system-template" # the subpath of your site, e.g. /blog
-url: "https://lundegaard.github.io/" # the base hostname & protocol for your site
+title: Design System Le Nord
+author: Dircom-SLabo (fork Lundegaard a.s.)
+email: nordcom@lenord.fr
+# baseurl: "/design-system-template" # the subpath of your site, e.g. /blog
+# url: "https://lundegaard.github.io/" # the base hostname & protocol for your site
+url: "https://lundegaard.github.io/"
 
 # Build settings
 markdown: kramdown
