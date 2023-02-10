@@ -41,7 +41,8 @@ jekyll-minifier:
 
 # Overriding default colors
 branding:
-  logo_path: '/assets/logo.svg'
+  # logo_path: '/assets/logo.svg'
+  logo_path: '/assets/Logo_Nord.pngs'
   navigation_background_color: '#eee'
   navigation_link_color: '#444'
   navigation_link_color_hover: 'gray'
