@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contributing to the design system
-description: This page explains the process (or processes) by which the design system gets updated
+title: Contribuer au design system
+description: Cette page explique comment ce design système évolue
 ---
 
 ## People
