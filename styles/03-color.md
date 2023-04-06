@@ -9,18 +9,21 @@ description: Color brings a design to life. Color is versatile; it's used to exp
 ---
 
 
-## Main colors
+## Couleurs principales
 
 
-{% include color-preview.html name="Primary" hexcode="#007bff" %}
-{% include color-preview.html name="Secondary" hexcode="#6c757d" %}
+{% include color-preview.html name="Bleu Nord" hexcode="#139fc6" %}
+{% include color-preview.html name="Secondary" hexcode="#175d79" %}
+{% include color-preview.html name="Tertiaire" hexcode="#06475E" %}
+{% include color-preview.html name="Quaternaire" hexcode="#6c757d" %}
+{% include color-preview.html name="Bleu" hexcode="#007bff" %}
 {% include color-preview.html name="Success" hexcode="#28a745" %}
 {% include color-preview.html name="Danger" hexcode="#dc3545" %}
 {% include color-preview.html name="Warning" hexcode="#ffc107" %}
 {% include color-preview.html name="Info" hexcode="#17a2b8" %}
 
 
-## Additional colors
+## Couleurs additionelles
 
 
 {% include color-preview.html name="White" hexcode="#fff" %}
