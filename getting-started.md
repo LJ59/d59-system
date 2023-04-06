@@ -4,12 +4,12 @@ title: Getting Started
 description: The getting started page should provide information for how to get up and running with the design system.
 ---
 
-## Downloading
+## Téléchargements
 Provide links and information for downloading the design system's files:
 
 <div><a href="{{ "/downloads.html" | prepend: site.baseurl }}" class="c-btn">Download Design System Files</a></div>
 
-## File Structure
+## Arborescence
 Provide an overview of the file system structure and how users of the design system should integrate the design system's code into their project. This info will obviously vary depending on your organization's environment(s).
 
 ```
@@ -28,10 +28,10 @@ design-system-1.0/
 └── [additional files]
 ```
 
-## Creating pages and using components
+## Créer des pages et utiliser des composants
 Provide information on how to properly link up design system files in order to create a basic "hello world" template. From there, describe the process of incorporating design system's components into the project. Again, this will undoubtedly vary based on the setup and technologies your organization utilizes.
 
-## Code conventions
+## Conventions de nommage
 Provide a link to learn more about <a href="{{ "/guidelines/code.html" | prepend: site.baseurl }}">code conventions</a>.
 
 ## Support and Community
