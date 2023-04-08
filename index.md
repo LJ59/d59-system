@@ -7,8 +7,10 @@ description: La plateforme qui facilite la communication en direction des Nordis
 Vous êtes partenaire ou prestataire du Département, retrouvez sur Nord com l’ensemble des informations de référence sur la marque Nord et les créations graphiques départementales.
 
 ## A propos
-Ce site est en cours de construction.
-Il est principalement destiné aux prestataires du Département du Nord.
+Ce site est en cours de construction.  
+Il est principalement destiné aux prestataires du Département du Nord.  
+  
+Nécessaire à l'image et à la visibilité du Département du Nord, ces styles web, déclinaison de la charte graphique, permettent une identification des services de la collectivité. Les règles ergonomiques et d'accessibilité (via une checklist qualité) en facilitent l'usage, en mettant les services et contenus du Département du Nord à la disposition de tous les utilisateurs, quels que soient leur matériel ou logiciel, leur culture, leurs aptitudes physiques ou mentales. Elles intègrent en outre les recommandations légales de sécurité et de référencement.
 
 ## Exemple
 
