@@ -43,9 +43,9 @@ jekyll-minifier:
 branding:
   logo_path: '/assets/logo.svg'
   # logo_path: '/assets/logo-le-nord.svg'
-  navigation_background_color: '#eee'
-  navigation_link_color: '#444'
-  navigation_link_color_hover: 'gray'
+  navigation_background_color: '#ececea'
+  navigation_link_color: '#021720'
+  navigation_link_color_hover: '175D79'
   main_background_color: '#fff'
   highlight_color: '#444'
   code_background_color: '#f9f9f9'
