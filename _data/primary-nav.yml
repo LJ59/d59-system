@@ -1,32 +1,32 @@
 - title: Introduction
   url: /
 
-- title: Pour commencer
-  url: /getting-started.html
+#- title: Pour commencer
+#  url: /getting-started.html
 
-- title: Guide de style
-  group: guidelines
-
-- title: Styles
+- title: Base visuelle
   group: styles
 
-- title: Composants
+- title: Composants web
   group: components
+  
+- title: Indications
+  group: guidelines
 
-- title: Utilitaires
+- title: CHecklist
   group: utilities
 
-- title: Patrons de page
-  group: page-templates
+#- title: Patrons de page
+#  group: page-templates
 
-- title: Téléchargement
-  url: /downloads.html
+#- title: Téléchargement
+#  url: /downloads.html
 
-- title: Support
-  url: /support.html
+#- title: Support
+ # url: /support.html
 
-- title: Versions
-  url: /release-history/
+#- title: Versions
+ # url: /release-history/
 
-- title: Contributions
-  url: /contribute.html
+#- title: Contributions
+#  url: /contribute.html
