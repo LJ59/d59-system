@@ -10,7 +10,7 @@ Vous êtes partenaire ou prestataire du Département, retrouvez sur Nord com l�
 Ce site est en cours de construction.  
 Il est principalement destiné aux prestataires du Département du Nord.  
   
-Nécessaire à l'image et à la visibilité du Département du Nord, ces styles web, déclinaison de la charte graphique, permettent une identification des services de la collectivité. Les règles ergonomiques et d'accessibilité (via une checklist qualité) en facilitent l'usage, en mettant les services et contenus du Département du Nord à la disposition de tous les utilisateurs, quels que soient leur matériel ou logiciel, leur culture, leurs aptitudes physiques ou mentales. Elles intègrent en outre les recommandations légales de sécurité et de référencement.
+Nécessaire à l'**image** et à la **visibilité** du Département du Nord, ces styles web, déclinaison de la charte graphique, permettent une identification des services de la collectivité. Les règles **ergonomiques et d'accessibilité** (via une checklist qualité) en facilitent l'usage, en mettant les services et contenus du Département du Nord à la disposition de tous les utilisateurs, quels que soient leur matériel ou logiciel, leur culture, leurs aptitudes physiques ou mentales. Elles intègrent en outre les recommandations légales de sécurité et de référencement.
 
 ## Exemple
 
