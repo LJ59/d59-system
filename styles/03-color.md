@@ -57,9 +57,10 @@ Ces trois variantes de vert ne sont à utiliser que pour des sites de la gamme S
 
 
 
-## Associations des couleurs
+<!-- ## Associations des couleurs
 
-### Textes en exergue et stratess
+{% include color-contrast-preview.html name="Noir sur blanc" hexcode="#17323F" contrast-hexcode="#60C6F2" ratio="x:x" %} 
 
-{% include color-contrast-preview.html name="Noir sur blanc" hexcode="#17323F" contrast-hexcode="#60C6F2" ratio="x:x" %}
+https://github.com/departement-loire-atlantique/design-system-web/blob/master/docs/_includes/color-contrast-preview.html
+-->
 
