@@ -56,3 +56,10 @@ Ces trois variantes de vert ne sont à utiliser que pour des sites de la gamme S
 ## Couleurs typographiques mode nuit
 
 
+
+## Associations des couleurs
+
+### Textes en exergue et stratess
+
+{% include color-contrast-preview.html name="Noir sur blanc" hexcode="#17323F" contrast-hexcode="#60C6F2" ratio="x:x" %}
+
