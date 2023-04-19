@@ -51,16 +51,3 @@ Ces trois variantes de vert ne sont à utiliser que pour des sites de la gamme S
 {% include color-preview.html name="Exergue bleue" hexcode="#ECF4F7" %}
 {% include color-preview.html name="Exergue verte" hexcode="#9bdea0" %}
 {% include color-preview.html name="Bleu bouton" hexcode="#E1EFF3" %}
-
-
-## Couleurs typographiques mode nuit
-
-
-
-<!-- ## Associations des couleurs
-
-{% include color-contrast-preview.html name="Noir sur blanc" hexcode="#17323F" contrast-hexcode="#60C6F2" ratio="x:x" %} 
-
-https://github.com/departement-loire-atlantique/design-system-web/blob/master/docs/_includes/color-contrast-preview.html
--->
-
