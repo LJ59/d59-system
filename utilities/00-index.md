@@ -5,10 +5,7 @@ permalink: /utilities/index.html
 url: /utilities/index.html
 
 title: Checklist accessibilité et qualité web
-description: Le Département a la volonté de s’inscrire dans la démarche qualité [**Opquast**](https://checklists.opquast.com/fr/qualiteweb/) et de se conformer au [**RGAA 4.1** (Référentiel Général d’Amélioration de l’Accessibilité)](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/), comme le prévoit l'article 47 de la loi n° 2005-102 du 11 février 2005 pour _l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées_.
-A ces titres, le Département du Nord s'éfforce de respecter la checklist ci-après, basée sur ces référentiels (via [Creative commons CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.fr)), afin de garantir à tous l'accès à l'information et aux services du Département. Il est attendu des prestataires mandatés de la respecter eux-aussi, avec l'appui au besoin des équipes du Département.  
-  
-Les **liens numérotés** correspondent à la Règle Opquast concernée et les **liens commençant par "critère"** pointent vers le RGAA 4.1
+description: Le Département a la volonté de s’inscrire dans la démarche qualité [**Opquast**](https://checklists.opquast.com/fr/qualiteweb/) et de se conformer au [**RGAA 4.1** (Référentiel Général d’Amélioration de l’Accessibilité)](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/), comme le prévoit l'article 47 de la loi n° 2005-102 du 11 février 2005 pour _l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées_.  A ces titres, le Département du Nord s'éfforce de respecter la checklist ci-après, basée sur ces référentiels (via [Creative commons CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.fr)), afin de garantir à tous l'accès à l'information et aux services du Département. Il est attendu des prestataires mandatés de la respecter eux-aussi, avec l'appui au besoin des équipes du Département.  Les **liens numérotés** correspondent à la Règle Opquast concernée et les **liens commençant par "critère"** pointent vers le RGAA 4.1
 
 ### Contenus
 
