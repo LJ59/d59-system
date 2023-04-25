@@ -20,5 +20,10 @@ For inspiration, check out over 180 examples of design systems at [Styleguides.i
 
 ## Contactez-nous
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet nunc ante. Cras varius lobortis urna, fringilla blandit nibh venenatis sed. Aenean aliquet dignissim enim, at pharetra lorem scelerisque lacinia. Donec tincidunt ex et pharetra feugiat. Nulla a cursus dolor. Aliquam vehicula ligula condimentum nisl bibendum, eget ornare tellus varius. Vestibulum interdum eget est eu bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam iaculis ante sit amet posuere convallis. Sed at mollis orci. In cursus, turpis id accumsan blandit, erat massa egestas nulla, eget porttitor lacus neque id dui. Mauris nec enim vel purus varius egestas a in diam.
-
+Hôtel du Département
+Direction de l'autonomie
+51, rue Gustave Delory
+59047 Lille Cedex
+FRANCE
+<a href="tel:+33359737373">+33 3 59 73 73 73</a>
+<a href="https://lenord.fr/formulaire-de-contact">Formulaire de contact</a>
