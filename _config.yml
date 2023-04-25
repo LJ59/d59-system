@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Design System Le Nord
+title: Design System du Nord
 author: Dircom-SLabo (fork Lundegaard a.s.)
 email: nordcom@lenord.fr
 # baseurl: "/design-system-template" # the subpath of your site, e.g. /blog
@@ -43,12 +43,12 @@ jekyll-minifier:
 branding:
   logo_path: '/assets/logo.svg'
   # logo_path: '/assets/logo-le-nord.svg'
-  navigation_background_color: '#ececea'
-  navigation_link_color: '#021720'
-  navigation_link_color_hover: '175D79'
+  navigation_background_color: '#ecf4f7'
+  navigation_link_color: '#006487'
+  navigation_link_color_hover: '#006487'
   main_background_color: '#fff'
   highlight_color: '#444'
-  code_background_color: '#f9f9f9'
+  code_background_color: '#ececea'
   
 # GTM analytics
 gtm_id: GTM-XXXXXX
