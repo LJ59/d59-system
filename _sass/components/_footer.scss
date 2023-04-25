@@ -19,3 +19,82 @@
     color: $color-gray-50;
     margin-left: 16px;
 }
+
+  footer {
+            background-color: #139fc6;
+        }
+        
+        footer img {
+            width: 100%;
+            height: auto;
+            margin: 0 auto;
+            padding: 1rem 0;
+            max-width: 15.75em;
+        }
+        
+        .footflex {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            justify-content: space-evenly;
+            text-align: center;
+            margin:2em 0em
+        }
+        
+        .footlogo {
+            align-items: center;
+        }
+        
+        .footcontact {
+            align-items: center;
+        }
+        
+        .footcontact p {
+            color: #021720;
+        }
+
+        .footboutons ul{
+            list-style: none;
+            margin-left:-3em;
+        }
+
+        
+        .footboutons a {
+            color: #021720!important;
+            background-color: transparent;
+            border: 0.0625em solid #021720;
+            border-radius: 50em;
+            display: inline-block;
+            padding: 0.5em 1em 0.5em 1em;
+            text-decoration: none;
+            width: 100%;
+            margin-bottom: 0.75em;
+        }
+
+        .footboutons a:hover {
+            text-decoration:underline!important;
+            color: #FFFFFF!important;
+            background-color: #021720;
+            border: 0.0625em solid #021720;
+            fill:#ffffff;
+        }
+
+        .footfooter {
+            background-color: #ffffff;
+            text-align: center;
+            padding: 1rem;
+            /* margin-bottom: 9em;*/
+        }
+        
+        .footfooter button {
+            text-decoration: underline;
+            color: #17323f;
+        }
+        
+        .footfooter button:hover {
+            text-decoration: none;
+        }
+        
+        .footfooter button:focus {
+            text-decoration: none
+        }
