@@ -99,3 +99,124 @@
         .footfooter button:focus {
             text-decoration: none
         }
+
+        .__inner
+        {-webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.__text {
+flex: 1 1 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 1.25em;
+    font-size: 1rem;
+}
+
+
+.__icon {
+    -webkit-box-flex: 0;
+    display: inline-block;
+    -ms-flex: 0 0 7%;
+    flex: 0 0 7%;
+    line-height: 1;
+    margin-right: 1em;
+    max-width: 7%;
+    text-align: center;
+}
+
+.externepied {
+    fill: #212529 ;
+    width: 0.75em;
+    height: 0.75em;
+    margin-left: 0.5em;
+}
+
+
+.rs :hover{
+ fill:#212529;
+}
+
+  @media only screen and (max-width: 990px) {
+  .footboutons {
+      margin-left: -1.5em;
+  }
+  .footflex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 2em 0em;
+    flex-direction: column;
+}
+  }
+
+
+
+
+
+
+
+
+        /*icones sociaux Sponta*/
+        .containerListIconsSocial ul {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    margin: 2em;
+    padding: 0;
+}
+.containerListIconsSocial ul li {
+    padding: 0.5em;}
+    .containerListIconsSocial ul li a {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 100%;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    height: 2.75em;
+    justify-content: center;
+    text-decoration: none;
+    width: 2.75em;
+}
+.containerListIconsSocial ul li a svg {
+    fill: #139FC6;
+    height: 1.5em;
+    -webkit-transition: fill .2s ease-in-out;;
+    transition: fill .2s ease-in-out;;
+    width: 1.5em;
+}
+
+@media only screen and (min-width: 992px) {
+.containerListIconsSocial ul li {
+    padding: 0.5em 1em;}
+}
+        
+        address {
+            font-style: normal;
+        }
+        
+        .erreur {
+            text-align: center;
+            padding: 3em 0 10em 0;
+        }
+
+
+
