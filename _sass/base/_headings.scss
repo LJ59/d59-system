@@ -12,6 +12,7 @@ h1 {
 	word-wrap: break-word;
 	margin-top: 2rem;
 	margin-bottom: 1rem;
+	color: #175d79
 
 	@media all and (min-width: $bp-med) {
 		font-size: $font-size-large-2;
@@ -27,7 +28,7 @@ h2 {
 	letter-spacing: -0.02rem;
 	margin-bottom: 0.5rem;
 	word-wrap: break-word;
-	color:#175D79;
+	color:#17323f;
 }
 
 /**
