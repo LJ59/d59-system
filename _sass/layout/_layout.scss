@@ -46,7 +46,6 @@
  */
 .l-page-layout__main {
 	display: flex;
-	/**height: 100vh;*/
 	-ms-flex-direction: column;
 	flex-direction: column;
 
@@ -55,7 +54,6 @@
 	 * 1) Margin left equals width of the fixed positioned sidebar
 	 */
     .l-page-layout--two-column-fixed > & {
-        height: 100vh;
 
         @media all and (min-width: $bp-xl) {
             margin-left: 18rem; /* 1 */
