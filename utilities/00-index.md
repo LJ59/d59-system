@@ -11,7 +11,7 @@ description: Le Département a la volonté de s’inscrire dans la démarche qua
 
 *   Les listes à puces ne sont pas simulées. Elles se manifestent dans le code via _<ul>_ et _<li>_. [**Critère 9.3**](https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/#9.3)
 *   Les éléments de listes à puces qui peuvent être regroupés ne sont pas dans des listes séparées ni consécutives.
-*   Les citations sont correctement balisées. [**Critère 9.4**](https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/#9.4)
+*   Les citations sont correctement balisées. [**Critère 9.4**](https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/#9.4)
 *   **[3 - Le code source de chaque page contient une métadonnée qui en décrit le contenu](https://checklists.opquast.com/fr/assurance-qualite-web/le-code-source-de-chaque-page-contient-une-metadonnee-qui-en-decrit-le-contenu)** [](https://checklists.opquast.com/fr/assurance-qualite-web/le-code-source-de-chaque-page-contient-une-metadonnee-qui-en-decrit-le-contenu)
 *   **[4 - Les dates sont présentées dans des formats explicites](https://checklists.opquast.com/fr/assurance-qualite-web/les-dates-sont-presentees-dans-des-formats-explicites)**_"XX mois 20XX"_.
 *   **[5 - La première occurrence d'une abréviation ou d'un acronyme dans le corps de chaque page donne accès à sa signification](https://checklists.opquast.com/fr/assurance-qualite-web/la-premiere-occurrence-dune-abreviation-ou-dun-acronyme-dans-le-corps-de-chaque-page-donne-acces-a-sa-signification)** [](https://checklists.opquast.com/fr/assurance-qualite-web/la-premiere-occurrence-dune-abreviation-ou-dun-acronyme-dans-le-corps-de-chaque-page-donne-acces-a-sa-signification)
