@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nord com
-description: La plateforme qui facilite la communication en direction des Nordistes
+title: Design system du Département du Nord
+description: Charte graphique et ergonomique web
 ---
 
 Vous êtes partenaire ou prestataire du Département, retrouvez sur Nord com l’ensemble des informations de référence sur la marque Nord et les créations graphiques départementales.
