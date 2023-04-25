@@ -5,7 +5,7 @@ permalink: /utilities/index.html
 url: /utilities/index.html
 
 title: Checklist accessibilité et qualité web
-description: 
+description: DESC
 
 *   Les listes à puces ne sont pas simulées. Elles se manifestent dans le code via _<ul>_ et _<li>_. [**Critère 9.3**](https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/#9.3)
 *   Les éléments de listes à puces qui peuvent être regroupés ne sont pas dans des listes séparées ni consécutives.
