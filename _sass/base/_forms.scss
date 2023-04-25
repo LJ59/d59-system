@@ -124,10 +124,6 @@ select {
     background-size: 16px 16px;
     background-repeat: no-repeat;
 
-	&:focus {
-		outline: 0;
-		border-color: $color-gray-50;
-	}
 
     /**
      * 1) Remove IE select arrow
