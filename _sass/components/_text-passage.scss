@@ -26,11 +26,12 @@
 	 * Link within the text passage
 	 */
 	a:not(.c-btn) {
-		color: $highlight_color;
+		color: #006487;
         text-decoration: underline;
 
 		&:hover, &:focus {
-			color: $color-gray-73;
+	
+			text-decoration:none;
 		}
 	}
 
