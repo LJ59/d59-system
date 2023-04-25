@@ -4,15 +4,6 @@ group: utilities
 permalink: /utilities/index.html
 url: /utilities/index.html
 
-title: Utilities
-description: Utilities are CSS helper classes that apply a single rule to an element. They should be used to accomplish specific styling needs, and should be used sparingly, especially when modifying the default styling of a Style Guide Guide component.
-
----
-layout: component-category
-group: utilities
-permalink: /utilities/index.html
-url: /utilities/index.html
-
 title: Checklist accessibilité et qualité web
 description: Le Département a la volonté de s’inscrire dans la démarche qualité <a href="https://checklists.opquast.com/fr/qualiteweb/" target="_self"><strong>Opquast</strong></a>&nbsp;et de se conformer au <a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/" target="_blank"><strong>RGAA 4.1</strong> (Référentiel Général d’Amélioration de l’Accessibilité)</a>, comme le prévoit l'article 47 de la loi n° 2005-102 du 11 février 2005 pour <em>l'égalité des droits et des&nbsp;chances, la participation et la citoyenneté des personnes handicapées</em>.</p>
 <p>A ces titres, le Département du Nord s'éfforce de respecter la checklist ci-après, basée sur ces référentiels (via&nbsp;<a href="https://creativecommons.org/licenses/by-sa/2.0/fr/deed.fr" target="_self">Creative commons CC-BY-SA 2.0</a>),&nbsp;afin de garantir à tous l'accès à l'information et aux services du Département. Il est&nbsp;attendu&nbsp;des&nbsp;prestataires mandatés de la respecter eux-aussi,&nbsp;avec l'appui au besoin des équipes du Département.<br>
