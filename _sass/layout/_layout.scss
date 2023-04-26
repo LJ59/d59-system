@@ -40,6 +40,10 @@
     #LAYOUT SECTIONS
 \*------------------------------------*/
 
+l-page-layout>l-page-layout--two-column-fixed{
+	display:flex;
+}
+
 /**
  * Main section
  * 1) The main section is the primary content container
@@ -264,15 +268,6 @@
 	  display: block;
 	}
   }
-
-/*------------------------------------*\
-    #Navbar
-\*------------------------------------*/
-
-
-l-page-layout>l-page-layout--two-column-fixed{
-	display:flex;
-}
 
 
 /*------------------------------------*\
