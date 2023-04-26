@@ -54,7 +54,7 @@
 	 * 1) Margin left equals width of the fixed positioned sidebar
 	 */
     .l-page-layout--two-column-fixed > & {
-
+	display:flex;
         @media all and (min-width: $bp-xl) {
             margin-left: 18rem; /* 1 */
         }
