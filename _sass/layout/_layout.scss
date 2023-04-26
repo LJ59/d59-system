@@ -55,9 +55,9 @@
 	 */
     .l-page-layout--two-column-fixed > & {
 	display:flex;
-        @media all and (min-width: $bp-xl) {
+        /** @media all and (min-width: $bp-xl) {
             margin-left: 18rem; /* 1 */
-        }
+        }/**
     }
 }
 
