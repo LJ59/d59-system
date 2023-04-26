@@ -76,11 +76,13 @@
 	 */
     .l-page-layout--two-column-fixed > & {
         @media all and (min-width: $bp-xl) {
-            position: fixed;
-    	    z-index: 0;
-            overflow: auto;
-			width: 18rem;
-            height: 100vh;
+            	position: sticky;
+		top:0;
+		left:0;
+    	    	z-index: 0;
+            	overflow: auto;
+		width: 18rem;
+            	display:flex;
         }
     }
 }
