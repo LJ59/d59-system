@@ -1,3 +1,10 @@
+.l-page-layout{
+	
+	 .l-page-layout--two-column-fixed {
+		display-flex;
+	}
+}
+
 /*------------------------------------*\
     #LAYOUT
 \*------------------------------------*/
@@ -44,13 +51,6 @@
  * Main section
  * 1) The main section is the primary content container
  */
-
-.l-page-layout--two-column-fixed{
-	
-	.l-page-layout {
-		display-flex;
-	}
-}
 
 .l-page-layout__main {
 	position: relative;
