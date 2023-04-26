@@ -61,7 +61,7 @@
     .l-page-layout--two-column-fixed > & {
 	    
         @media all and (min-width: $bp-xl) {
-            margin-left: 18rem; /* 1 */
+            margin-left: 0rem; /* 1 */
         }
     }
 }
