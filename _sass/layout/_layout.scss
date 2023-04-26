@@ -45,11 +45,6 @@
  * 1) The main section is the primary content container
  */
 
-l-page-layout--two-column-fixed{
-	display:flex;
-	background-color: blue; 
-}
-
 .l-page-layout__main {
 	display: block;
 	-ms-flex-direction: column;
@@ -62,7 +57,7 @@ l-page-layout--two-column-fixed{
     .l-page-layout--two-column-fixed > & {
 	    
         @media all and (min-width: $bp-xl) {
-            margin-left: 18rem; /* 1 */
+            margin-left: 0rem; /* 1 */
         }
     }
 }
