@@ -60,6 +60,7 @@
 	 */
     .l-page-layout--two-column-fixed > & {
         @media all and (min-width: $bp-xl) {
+	/** passage en sticky, margin non nécessaire, à vérifier */
             margin-left: 0rem; /* 1 */
         }
     }
