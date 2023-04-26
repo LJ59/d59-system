@@ -45,7 +45,7 @@
  * 1) The main section is the primary content container
  */
 .l-page-layout__main {
-	display: flex;
+	display: block;
 	-ms-flex-direction: column;
 	flex-direction: column;
 
