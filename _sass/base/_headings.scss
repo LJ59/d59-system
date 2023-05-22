@@ -6,12 +6,10 @@
  * Heading 1 base styles
  */
 h1 {
-	font-size: 2.25rem;
 	line-height: 1;
 	letter-spacing: -0.02rem;
 	word-wrap: break-word;
-	margin-top: 2rem;
-	margin-bottom: 1rem;
+	margin: 2em 0;
 	color: #175d79;
 
 	@media all and (min-width: $bp-med) {
