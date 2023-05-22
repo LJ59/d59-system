@@ -11,14 +11,14 @@ description: L'usage des couleurs ci-après se doit de respecter les [critères 
 
 ## Le Bleu Nord et ses déclinaisons
 
-Ces couleurs sont communes à l'ensemble des sites du Département et sont les seules autorisées pour un site institutionnel.
+Ces couleurs sont communes à l'ensemble des sites du Département et sont les seules autorisées pour un site institutionnel.<
 
 {% include color-preview.html name="Bleu clair" hexcode="#60C6F2" %}
 {% include color-preview.html name="Bleu Nord" hexcode="#139fc6" %}
-{% include color-preview.html name="Bleu foncé" hexcode="#17323F" %}
-  
-  
 {% include color-preview.html name="Bleu moyen" hexcode="#175D79" %}
+  
+  
+{% include color-preview.html name="Bleu foncé" hexcode="#17323F" %}
 {% include color-preview.html name="Bleu plus foncé" hexcode="#06475E" %}
 {% include color-preview.html name="Bleu nuit" hexcode="#021720" %}
 
