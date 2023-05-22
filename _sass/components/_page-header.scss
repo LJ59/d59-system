@@ -31,7 +31,8 @@
 .c-page-header__desc {
     margin-bottom: 2rem;
     font-size: $font-size-med;
-    max-width: $l-max-width-narrow;
+    max-width: 95ch;
+//     max-width: $l-max-width-narrow;
 }
 
 /**
