@@ -19,7 +19,12 @@
     text-overflow: ellipsis;
 }
 
+
 .color-preview__name {
     font-weight: 600;
     font-size: 1em;
+}
+
+.color-preview__value {
+    border-radius : 1em 1em 0 0 ;
 }
