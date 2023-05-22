@@ -1,10 +1,11 @@
 
 .color-preview {
     box-sizing: content-box;
-    width: 120px;
-    padding-top: 120px;
+    min-width: 27%;
+    padding-top: 4em;
     margin: 20px;
-    border: 3px solid $code_background_color;    
+    box-shadow: 0 10px 24px 0 rgba(0,0,0,.1);
+    border-radius: 1em;
     display: inline-block;
 }
 
