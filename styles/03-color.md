@@ -18,8 +18,8 @@ Ces couleurs sont communes à l'ensemble des sites du Département et sont les s
 {% include color-preview.html name="Bleu moyen" hexcode="#175D79" %}
   
   
+{% include color-preview.html name="Bleu demi" hexcode="#06475E" %}
 {% include color-preview.html name="Bleu foncé" hexcode="#17323F" %}
-{% include color-preview.html name="Bleu plus foncé" hexcode="#06475E" %}
 {% include color-preview.html name="Bleu nuit" hexcode="#021720" %}
 
 
