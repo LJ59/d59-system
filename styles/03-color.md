@@ -14,7 +14,8 @@ description: L'usage des couleurs ci-après se doit de respecter les [critères 
 Ces couleurs sont communes à l'ensemble des sites du Département et sont les seules autorisées pour un site institutionnel.<
 
 {% include color-preview.html name="Bleu clair" hexcode="#60C6F2" %}
-{% include color-preview.html name="Bleu Nord" hexcode="#139fc6" %}
+{% include color-preview.html name="Bleu Nord" hexcode="#60C6F2" %}
+<!-- {% include color-preview.html name="Bleu Nord" hexcode="#139fc6" %} -->
 {% include color-preview.html name="Bleu moyen" hexcode="#175D79" %}
   
   
