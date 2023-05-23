@@ -47,9 +47,9 @@ Pour fonds, exergues ou zones de filtrages
 {% include color-preview.html name="Gris" hexcode="#ECECEA" %}
 {% include color-preview.html name="Gris foncé" hexcode="#595959" %}
   
-{% include color-preview.html name="Rouge" hexcode="#CD1719" %}
-{% include color-preview.html name="Gris" hexcode="#ECECEA" %}
-{% include color-preview.html name="Gris foncé" hexcode="#595959" %}
+{% include color-preview.html name="Exergue bleue" hexcode="#ECF4F7" %}
+{% include color-preview.html name="Bleu bouton" hexcode="#E1EFF3" %}
+{% include color-preview.html name="Exergue verte" hexcode="#9BDEA0" %}
 
 </div>
 
