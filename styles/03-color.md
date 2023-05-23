@@ -8,8 +8,6 @@ description: L'usage des couleurs ci-après se doit de respecter les [critères 
 
 ---
 
-
-<section class="color-block">
 ## Le Bleu Nord et ses déclinaisons
 
 Ces couleurs sont communes à l'ensemble des sites du Département et sont les seules autorisées pour un site institutionnel.
@@ -26,8 +24,6 @@ Ces couleurs sont communes à l'ensemble des sites du Département et sont les s
 {% include color-preview.html name="Bleu nuit" hexcode="#021720" %}
 
 </div>
-  
-</section>
 
 ## Gamme Services
 
