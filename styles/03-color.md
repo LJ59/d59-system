@@ -14,7 +14,7 @@ Ces couleurs sont communes à l'ensemble des sites du Département et sont les s
 
 <div class="color-container">
 
-{% include color-preview.html name="Bleu clair" hexcode="#60C6F2" %}
+{% include color-preview.html name="Bleu clair" rgb="(96, 198, 242)" hexcode="#60C6F2" %}
 {% include color-preview.html name="Bleu Nord" hexcode="#139fc6" %}
 {% include color-preview.html name="Bleu moyen" hexcode="#175D79" %}
   
