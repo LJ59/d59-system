@@ -78,5 +78,6 @@ Fonds bleu nuit ou bleu foncé (à l'exception du rouge "erreur")
 {% include color-preview.html name="Erreur" hexcode="#CD1719" %}
 {% include color-preview.html name="Lien" hexcode="#006487" %}
 {% include color-preview.html name="Lien visité" hexcode="#660099" %}
+{% include color-preview.html name="Exergue nuit" hexcode="#36434D" %}
   
 </div>
