@@ -8,15 +8,16 @@ description: L'usage des couleurs ci-après se doit de respecter les [critères 
 
 ---
 
-<section class="color-block">
   
 ## Le Bleu Nord et ses déclinaisons
+
+<section class="color-block">
 
 Ces couleurs sont communes à l'ensemble des sites du Département et sont les seules autorisées pour un site institutionnel.
 
 <div class="color-container">
 
-{% include color-preview.html name="Bleu clair" rgb="rgb (96, 198, 242)" hexcode="#60C6F2" %}
+{% include color-preview.html name="Bleu clair" hexcode="#60C6F2" %}
 {% include color-preview.html name="Bleu Nord" hexcode="#139fc6" %}
 {% include color-preview.html name="Bleu moyen" hexcode="#175D79" %}
   
