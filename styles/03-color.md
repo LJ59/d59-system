@@ -39,6 +39,8 @@ Ces trois variantes de vert ne sont à utiliser que pour des sites de la gamme S
 
 ## Couleurs additionelles
 
+Pour fonds, exergues ou zones de filtrages
+
 <div class="color-container">
 
 {% include color-preview.html name="Rouge" hexcode="#CD1719" %}
