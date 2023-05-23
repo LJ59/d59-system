@@ -31,9 +31,9 @@ Ces trois variantes de vert ne sont à utiliser que pour des sites de la gamme S
 
 <div class="color-container">
 
-{% include color-preview.html name="Vert Services" hexcode="#5AB464" %}
-{% include color-preview.html name="Vert Services / blanc" hexcode="#0E7C35" %}
-{% include color-preview.html name="Vert Services foncé" hexcode="#123B1E" %}
+{% include color-preview.html name="Vert Services" rgb="rgb (90, 180, 100)" hexcode="#5AB464" %}
+{% include color-preview.html name="Vert Services / blanc" rgb="rgb (14, 124, 53)" hexcode="#0E7C35" %}
+{% include color-preview.html name="Vert Services foncé" rgb="rgb (18, 59, 30)" hexcode="#123B1E" %}
 
 </div>
 
