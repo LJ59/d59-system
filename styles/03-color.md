@@ -55,13 +55,16 @@ Pour fonds, exergues ou zones de filtrages
 
 ## Couleurs typographiques
 
+### Fond clair
+
+Blanc, gris, exergue bleue, bleu bouton
+
 <div class="color-container">
 
 {% include color-preview.html name="Texte" hexcode="#212529" %}
 {% include color-preview.html name="Erreur" hexcode="#CD1719" %}
 {% include color-preview.html name="Lien" hexcode="#006487" %}
 {% include color-preview.html name="Lien visité" hexcode="#660099" %}
-
 
 {% include color-preview.html name="Fond exergue / Mise en avant" hexcode="#ECECEA" %}
 {% include color-preview.html name="Exergue bleue" hexcode="#ECF4F7" %}
