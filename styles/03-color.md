@@ -43,13 +43,13 @@ Pour fonds, exergues ou zones de filtrages
 
 <div class="color-container">
 
-{% include color-preview.html name="Rouge" hexcode="#CD1719" %}
-{% include color-preview.html name="Gris" hexcode="#ECECEA" %}
-{% include color-preview.html name="Gris foncé" hexcode="#595959" %}
+{% include color-preview.html name="Rouge" rgb="rgb (205, 23, 25)" hexcode="#CD1719" %}
+{% include color-preview.html name="Gris" rgb="rgb (236, 236, 234)" hexcode="#ECECEA" %}
+{% include color-preview.html name="Gris foncé" rgb="rgb (89, 89, 89)" hexcode="#595959" %}
   
-{% include color-preview.html name="Exergue bleue" hexcode="#ECF4F7" %}
-{% include color-preview.html name="Bleu bouton" hexcode="#E1EFF3" %}
-{% include color-preview.html name="Exergue verte" hexcode="#9BDEA0" %}
+{% include color-preview.html name="Exergue bleue" rgb="rgb (236, 244, 247)" hexcode="#ECF4F7" %}
+{% include color-preview.html name="Bleu bouton" rgb="rgb (225, 239, 243)" hexcode="#E1EFF3" %}
+{% include color-preview.html name="Exergue verte" rgb="rgb (155, 222, 160)" hexcode="#9BDEA0" %}
 
 </div>
 
