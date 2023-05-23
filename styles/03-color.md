@@ -13,7 +13,7 @@ description: L'usage des couleurs ci-après se doit de respecter les [critères 
 
 Ces couleurs sont communes à l'ensemble des sites du Département et sont les seules autorisées pour un site institutionnel.
 
-<div class="color-content">
+<div class="color-container">
 
 {% include color-preview.html name="Bleu clair" rgb="rgb (96, 198, 242)" hexcode="#60C6F2" %}
 {% include color-preview.html name="Bleu Nord" hexcode="#139fc6" %}
