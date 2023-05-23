@@ -1,0 +1,30 @@
+
+.color-preview {
+    box-sizing: content-box;
+    min-width: 13.8em;
+    padding-top: 5.25em;
+    box-shadow: 0 10px 24px 0 rgba(0,0,0,.1);
+    border-radius: 1em;
+    display: inline-block;
+    background-color: $bleu;
+}
+
+.color-preview__value, .color-preview__name {
+    background-color: $main_background_color;
+    font-size: 0.7em;
+    padding: 8px 16px;
+    line-height: 1em;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.color-preview__name {
+    font-weight: 600;
+    font-size: 1em;
+}
+
+.color-preview__value {
+    border-radius : 0 0 1em 1em;
+}
