@@ -37,7 +37,7 @@
 .color-container {
 	display: flex;
 	justify-content: center;
-	max-width: 800px !important;
+	max-width: $l-max-width-medium !important;
 	flex-wrap: wrap;
 	gap: 2em;
 }
