@@ -11,18 +11,14 @@
 .color-preview__value, .color-preview__name, .color-preview__rgb{
     background-color: $main_background_color;
     font-size: 0.7em;
+    padding: 8px 16px;
     line-height: 1em;
     white-space: normal;
     overflow: hidden;
     text-overflow: ellipsis;
 }
 
-.color-preview__rgb{
-    padding: 8px 16px;
-}
-
 .color-preview__name {
-    padding: 8px 16px;
     font-weight: 600;
     font-size: 1em;
 }
