@@ -29,19 +29,27 @@ Ces couleurs sont communes à l'ensemble des sites du Département et sont les s
 
 Ces trois variantes de vert ne sont à utiliser que pour des sites de la gamme Services en complément du Bleu Nord et de ses déclinaisons.
 
+<div class="color-container">
+
 {% include color-preview.html name="Vert Services" hexcode="#5AB464" %}
 {% include color-preview.html name="Vert Services / blanc" hexcode="#0E7C35" %}
 {% include color-preview.html name="Vert Services foncé" hexcode="#123B1E" %}
 
+</div>
 
 ## Couleurs additionelles
+
+<div class="color-container">
 
 {% include color-preview.html name="Rouge" hexcode="#CD1719" %}
 {% include color-preview.html name="Gris" hexcode="#ECECEA" %}
 {% include color-preview.html name="Gris foncé" hexcode="#595959" %}
 
+</div>
 
 ## Couleurs typographiques
+
+<div class="color-container">
 
 {% include color-preview.html name="Texte" hexcode="#212529" %}
 {% include color-preview.html name="Erreur" hexcode="#CD1719" %}
@@ -53,3 +61,5 @@ Ces trois variantes de vert ne sont à utiliser que pour des sites de la gamme S
 {% include color-preview.html name="Exergue bleue" hexcode="#ECF4F7" %}
 {% include color-preview.html name="Exergue verte" hexcode="#9bdea0" %}
 {% include color-preview.html name="Bleu bouton" hexcode="#E1EFF3" %}
+  
+</div>
