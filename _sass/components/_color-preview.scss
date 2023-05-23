@@ -28,11 +28,17 @@
 //     text-overflow: ellipsis;
 // }
 
+.color-preview__rgb{
+    padding: 0 8px;
+}
+
 .color-preview__name {
+    padding: 8px 8px 16px;
     font-weight: 600;
     font-size: 1em;
 }
 
 .color-preview__value {
+    padding: 8px;
     border-radius : 0 0 1em 1em;
 }
