@@ -8,10 +8,9 @@ description: L'usage des couleurs ci-après se doit de respecter les [critères 
 
 ---
 
-  
-## Le Bleu Nord et ses déclinaisons
 
 <section class="color-block">
+## Le Bleu Nord et ses déclinaisons
 
 Ces couleurs sont communes à l'ensemble des sites du Département et sont les seules autorisées pour un site institutionnel.
 
