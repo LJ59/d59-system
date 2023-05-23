@@ -59,7 +59,7 @@ Pour fonds, exergues ou zones de filtrages
 
 Blanc, gris, exergue bleue, bleu bouton
 
-<div class="color-container">
+<div class="color-container-typo">
 
 {% include color-preview-light.html name="Texte" hexcode="#212529" %}
 {% include color-preview-light.html name="Lien" hexcode="#006487" %}
@@ -72,7 +72,7 @@ Blanc, gris, exergue bleue, bleu bouton
 
 Fonds bleu nuit ou bleu foncé (à l'exception du rouge "erreur")
 
-<div class="color-container">
+<div class="color-container-typo">
 
 {% include color-preview.html name="Texte" hexcode="#FFFFFF" %}
 {% include color-preview.html name="Lien" hexcode="#60C6F2" %}
