@@ -46,6 +46,10 @@ Pour fonds, exergues ou zones de filtrages
 {% include color-preview.html name="Rouge" hexcode="#CD1719" %}
 {% include color-preview.html name="Gris" hexcode="#ECECEA" %}
 {% include color-preview.html name="Gris foncé" hexcode="#595959" %}
+  
+{% include color-preview.html name="Rouge" hexcode="#CD1719" %}
+{% include color-preview.html name="Gris" hexcode="#ECECEA" %}
+{% include color-preview.html name="Gris foncé" hexcode="#595959" %}
 
 </div>
 
