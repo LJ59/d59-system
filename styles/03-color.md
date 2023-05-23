@@ -65,10 +65,5 @@ Blanc, gris, exergue bleue, bleu bouton
 {% include color-preview.html name="Erreur" hexcode="#CD1719" %}
 {% include color-preview.html name="Lien" hexcode="#006487" %}
 {% include color-preview.html name="Lien visité" hexcode="#660099" %}
-
-{% include color-preview.html name="Fond exergue / Mise en avant" hexcode="#ECECEA" %}
-{% include color-preview.html name="Exergue bleue" hexcode="#ECF4F7" %}
-{% include color-preview.html name="Exergue verte" hexcode="#9bdea0" %}
-{% include color-preview.html name="Bleu bouton" hexcode="#E1EFF3" %}
   
 </div>
