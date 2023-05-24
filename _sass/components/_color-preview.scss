@@ -11,14 +11,15 @@
 
 .color-preview-text_dark {
     box-sizing: content-box;
-    min-width: 13.8em;
-    box-shadow: 0 10px 24px 0 rgba(0,0,0,.1);
+    min-width: 8.3em;
+    box-shadow: 0 10px 24px 0 rgba(0,0,0,0.1);
     border-radius: 1em;
     display: inline-block;
     
     .color-preview-name, .color-preview__value{
-        color: #FFFFFF;
-        background-color: #021720;
+    color: #FFFFFF;
+    background-color: black;
+    border-radius: 1em 1em 0 0;
     }
 }
 
