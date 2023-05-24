@@ -30,6 +30,14 @@
     border-radius : 0 0 1em 1em;
 }
 
+.color-preview-text{
+    background-color: #021720;
+    box-sizing: content-box;
+    min-width: 8.3em;
+    box-shadow: 0 10px 24px 0 rgba(0,0,0,.1);
+    border-radius: 1em;
+    display: inline-block;
+}
 
 .color-preview-text_dark {
     box-sizing: content-box;
