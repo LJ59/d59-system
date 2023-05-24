@@ -74,10 +74,10 @@ Fonds bleu nuit ou bleu foncé (à l'exception du rouge "erreur")
 
 <div class="color-container-typo">
 
-{% include color-preview-text.html name="Texte" hexcode="#FFFFFF" %}
-{% include color-preview-text.html name="Lien" hexcode="#60C6F2" %}
-{% include color-preview-text.html name="Erreur" hexcode="#ED3739" %}
-{% include color-preview-text.html name="Lien visité" hexcode="#C18BCE" %}
+{% include color-preview-text_dark.html name="Texte" hexcode="#FFFFFF" %}
+{% include color-preview-text_dark.html name="Lien" hexcode="#60C6F2" %}
+{% include color-preview-text_dark.html name="Erreur" hexcode="#ED3739" %}
+{% include color-preview-text_dark.html name="Lien visité" hexcode="#C18BCE" %}
 {% include color-preview.html name="Exergue nuit" hexcode="#36434D" %}
   
 </div>
