@@ -8,15 +8,6 @@
 }
 
 
-.color-preview-text_dark {
-    background-color: $bnuit;
-    box-sizing: content-box;
-    min-width: 13.8em;
-    box-shadow: 0 10px 24px 0 rgba(0,0,0,.1);
-    border-radius: 1em;
-    display: inline-block;
-}
-
 .color-preview__value, .color-preview__name {
     background-color: $main_background_color;
     font-size: 0.7em;
