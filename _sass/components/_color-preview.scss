@@ -10,14 +10,18 @@
 }
 
 .color-preview-text_dark {
-    background-color: #021720; 
     box-sizing: content-box;
     min-width: 13.8em;
-    padding-top: 5.25em;
     box-shadow: 0 10px 24px 0 rgba(0,0,0,.1);
     border-radius: 1em;
     display: inline-block;
+    
+    .color-preview-name{
+        color: #FFFFFF;
+        background-color: $bnuit;
+    }
 }
+
 
 .color-preview__value, .color-preview__name, .color-preview__rgb{
     background-color: $main_background_color;
